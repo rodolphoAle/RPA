@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b7ef981-2ccf-4a27-87a8-04d781edcd6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstRPA/FistRpa/FirstRpaController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstRPA/OpenNotePad.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.FirstRpa.executor": "Run",
+    "Python.FirstRpaController.executor": "Run",
+    "Python.OpenNotePad.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -47,7 +49,7 @@
     "last_opened_file_path": "E:/Dowloads Void/Cursos/RPA"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.FirstRpaController">
+  <component name="RunManager">
     <configuration name="FirstRpa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RPA" />
       <option name="ENV_FILES" value="" />
